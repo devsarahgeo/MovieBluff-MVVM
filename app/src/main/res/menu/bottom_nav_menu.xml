@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/findFriends"
+        android:title="FindFriends"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+    <item
+        android:id="@+id/Movies"
+        android:title="Movies"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+
+    <item
+        android:id="@+id/Message"
+        android:title="Message"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+    <item
+        android:id="@+id/MyProfile"
+        android:title="MyProfile"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+
+
+</menu>
